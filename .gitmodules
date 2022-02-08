@@ -1,0 +1,6 @@
+[submodule "payment-operations"]
+	path = payment-operations
+	url = https://github.com/logeshdinahypto/payment-operations.git
+[submodule "logesh-payments-infrastructure"]
+	path = logesh-payments-infrastructure
+	url = https://github.com/logeshdinahypto/logesh-payments-infrastructure.git
